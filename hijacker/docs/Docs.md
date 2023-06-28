@@ -1,1 +1,0 @@
-# Hijacker > Documentation
