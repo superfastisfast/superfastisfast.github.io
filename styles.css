@@ -15,7 +15,7 @@ body {
   font-size: 3rem;
   color: #fff;
   text-transform: uppercase;
-  animation: shake 0.5s infinite;
+  animation: shake 0.1s infinite;
 }
 
 @keyframes shake {
